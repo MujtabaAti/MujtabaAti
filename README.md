@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Mujtaba
+# 👋 Hi, I’m Mujtaba
 
 - 👀 I’m interested in Python, C#, C++, and Swift.
 - 🌱 I’m currently learning Swift and App Development.
